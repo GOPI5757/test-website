@@ -1,6 +1,25 @@
 {
   "application": "CraftCareer",
   "projectId": "c771efee7f2d4c248ee7d62a47571289",
-  "files": [],
-  "commit": null
+  "files": [
+    "config/site.js",
+    "config/sections/profile.js",
+    "config/sections/projects.js",
+    "config/sections/morphbound-page.js",
+    "config/sections/navbar.js",
+    "index.html",
+    "css/site.css",
+    "js/layout.js",
+    "js/icons.js",
+    "ICONS-LICENSES.md",
+    "js/runtime.js",
+    "js/boot.js",
+    "README.md",
+    "craftcareer.json",
+    "assets/profile/images/character.webp",
+    "assets/profile/images/prop.webp",
+    ".nojekyll"
+  ],
+  "commit": null,
+  "publishedAt": "2026-10-24T14:48:32.988Z"
 }
